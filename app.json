@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/githupsource/source_reefz",
+      "value": "m",
       "required": false
     }
     },
