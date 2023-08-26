@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Tepthonee/PPF22",
+  "repository": "https://github.com/githupsource/source_reefz",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -55,8 +55,8 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/Tepthonee/PPF22",
+      "description": "لاتغيره ابداً",
+      "value": "https://github.com/githupsource/source_reefz",
       "required": false
     }
     },
