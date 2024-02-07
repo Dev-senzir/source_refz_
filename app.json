@@ -3,7 +3,7 @@
   "description": "〔 سـورس ريفز 𝗥𝗘𝗙𝗭 〕افضـل سـورسـات تليثـون يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › فـارات تلقـائيـه بسهولـه〔 حصريـاً 〕- مطـور السـورس : سينزر ",
   "logo": "https://graph.org/file/c799bbda5ec9cf8cdf0a6.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/Dev-senzir/source_refz_",
+  "repository": "https://github.com/Deploy-Tepthon/Deploy",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -16,7 +16,7 @@
       "value": "62d5f68ce2e9189636967120220f5755"
     },
     "STRING_SESSION": {
-      "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
+      "description": "كـــود تيـــرمكـــس أو كــــود بايروجـــرام قم باستخراجه من بوت الاستخراج ( @TepthonSessionBot )",
       "value": ""
     },
     "TG_BOT_TOKEN": {
@@ -53,15 +53,9 @@
   },{
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/rogerpq/heroku-buildpack-ffmpeg-latest"
   },{
     "url": "heroku/python"
   }],
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "basic"
-    }
-  },
   "stack": "heroku-22"
-}
+    }
